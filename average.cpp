@@ -8,7 +8,7 @@ int main()
 
   // take input from end-user
 
-  cout << "Enter three Numbers :: ";
+  cout << "Enter three Numbers : ";
   cin >> num1 >> num2 >> num3;
 
   // calculate sum value
